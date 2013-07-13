@@ -1,4 +1,4 @@
-socrates
+[socrates](http://maxsu.github.io/socrates)
 ========
 
 Issues Management for my system!
